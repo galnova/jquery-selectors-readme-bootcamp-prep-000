@@ -1,21 +1,21 @@
 // declare your functions here...
 
-function paragraphSelector () {
-  return $('p');
-}
+// function paragraphSelector () {
+//   return $('p');
+// }
 
-function lastImageSelector() {
-  return $('.pics img:last-child');
-}
+// function lastImageSelector() {
+//   return $('.pics img:last-child');
+// }
 
-function ninjaBabySelector() {
-  return $('#baby-ninja');
-}
+// function ninjaBabySelector() {
+//   return $('#baby-ninja');
+// }
 
-function divSelector() {
-  return $('.pics');
-}
+// function divSelector() {
+//   return $('.pics');
+// }
 
-function firstListItem() {
-return $('.pics #pic-list li:first-child');
-}
+// function firstListItem() {
+// return $('.pics #pic-list li:first-child');
+// }
