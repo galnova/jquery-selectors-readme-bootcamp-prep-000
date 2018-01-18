@@ -1,31 +1,21 @@
 // declare your functions here...
 
 function paragraphSelector () {
-  $('p').append('Testers!');
-  
-  return;
+  return $('p');
 }
 
 function lastImageSelector() {
-  $('.pics img:last-child').append('Testers2!');
-  
-  return;
+  return $('.pics img:last-child');
 }
 
 function ninjaBabySelector() {
-  $('#baby-ninja').append('Testers3!');
-  
-  return;
+  return $('#baby-ninja');
 }
 
 function divSelector() {
-  $('.pics').append('Testers4!');
-  
-  return;
+  return $('.pics');
 }
 
 function firstListItem() {
-  $('.pics #pic-list li:first-child').append('Testers5!');
-  
-  return;
+return $('.pics #pic-list li:first-child');
 }
